@@ -1,9 +1,9 @@
 # Data_Analysis_Machine_Learning
 Analyzed California  Fire Incidents Data from Kaggle with Python; Used machine learning to identify the key predictors with different classifiers such as DecisionTree, RandonForest, Gaussian, Clustering.
 
-This project includes:
-1)Analysis of Wildfire Duration Time on the effects of Resources (AirTankers, PersonnelInvolved, Dozers and so on) to see how effective Resources help control wildfire duration time
-2)Analysis of Wildfire Severity by Region, County, Admin Unit to see what area deserve more resources
+This project includes:\
+1)Analysis of Wildfire Duration Time on the effects of Resources (AirTankers, PersonnelInvolved, Dozers and so on) to see how effective Resources help control wildfire duration time\
+2)Analysis of Wildfire Severity by Region, County, Admin Unit to see what area deserve more resources\
 3)Analysis of Wildfires in Santa Clara County
 
 Findings:
